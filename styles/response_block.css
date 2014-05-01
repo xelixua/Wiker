@@ -1,0 +1,19 @@
+#capt_jwist{ font: bold 130%; font-family: arial, verdana, sans-serif;}  
+#resp_jwist{ font: 10pt sans-serif;
+}
+#mrl_jwist{font: 60%;}
+#base_jwist {
+    height: AAAAAApx;
+    left: BBBBBBpx;
+    right: ZZZZZZpx;
+    top: CCCCCCpx;
+    bottom: XXXXXXpx;
+    position: absolute;
+    text-indent: 20px;
+    font: monospace;
+    width: 528px;
+    z-index: 10;
+    border-radius: 15px;
+    opacity: 0.8;
+    background-image: linear-gradient(to bottom, #E0F0F0, rgba(255,255,255,10));
+ }

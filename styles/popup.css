@@ -1,0 +1,79 @@
+body {
+    background-image: linear-gradient(to bottom, #C5A273, rgba(250,182,135,10));
+ }
+#defaultd {
+    width: 300px;
+    height: 400px;
+}
+font.defaultf {
+    color: #FFFFFF;
+    font-family: "Tahoma",sans-serif;
+    font-weight: normal;
+    text-shadow: 1px -1px #555555;
+}
+#back_to_alternatives {
+    width: 300px;
+    height:25px;
+}
+font.back_to_list {
+    color: #FFFFFF;
+    font-family: "Tahoma",sans-serif;
+    font-weight: italic; 
+    text-shadow: 1px 1px #000000;
+}
+#wiki_response {
+    background-image: linear-gradient(to bottom, #E0F0F0, rgba(255,255,255,10));
+    overflow: auto;
+    border: 2px solid black;
+    width: 300px;
+    height: 330px;
+}
+font.wiki_respons {
+    color: #000000;
+    font-family: "Arial",sans-serif;
+    font-weight: normal; 
+}
+#open_full {
+    width: 300px;
+    height: 25px;
+}
+font.open_full {
+    color: #FFFFFF;
+    font-family: "Tahoma",sans-serif;
+    font-weight: italic; 
+    text-shadow: 1px 1px #000000;
+}
+#yapr {
+    width: 300px;
+    height:25px;
+}
+font.yapr {
+    color: #ffffff;
+    font-family: "Tahoma",sans-serif;
+    font-weight: italic; 
+    text-shadow: 1px 1px #000000;
+}
+#alt_links {
+    background-image: linear-gradient(to bottom, #E0F0F0, rgba(255,255,255,10));
+    overflow: auto;
+    border: 2px solid black;
+    width: 300px;
+    height: 350px;
+}
+font.alt_links {
+    color: #000000;
+    font-family: "Arial",sans-serif;
+    font-weight: normal; 
+}
+font.closelink {
+    color: #FFFFFF;
+    font-family: "Tahoma",sans-serif;
+    font-weight: italic; 
+    text-shadow: 1px 1px #000000;
+}
+#progressbar {
+    display: inline;
+    background: black;
+    width: 0px;
+    height: 10px; 
+}
